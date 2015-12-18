@@ -3,4 +3,4 @@ ESP8266 project that allows and RGB led to be controlled over WiFi.
 
 
 To Do:
-Add functionality similar to my http temperature sensor where the ESP8266 with start up ass an access point for configuration if it is unable to connect to an access point.
+Add functionality similar to my http temperature sensor where the ESP8266 with start up as an access point for configuration if it is unable to connect to an access point.
